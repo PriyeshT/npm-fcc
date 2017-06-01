@@ -1,2 +1,2 @@
-*.log
-.npmrc
+./*.log
+./.npmrc
